@@ -1,5 +1,6 @@
 data/*
 !data/.gitkeep
+!data/Stations_2020u.csv
 travail-longitudinal-revenu.xlsx
 validate-tl-check-repo
 validateconf-realisation
